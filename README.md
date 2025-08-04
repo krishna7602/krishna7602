@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Youtube-backend-clone](https://github.com/krishna7602/Youtube-backend-clone)
 
-- 👨‍💻 All of my projects are available at [https://ram-portfolio-phi.vercel.app/](https://ram-portfolio-phi.vercel.app/)
+- 👨‍💻 Portfolio [https://ram-portfolio-phi.vercel.app/](https://ram-portfolio-phi.vercel.app/)
 
-- 💬 Ask me about **HTML, Css, JavaScript, React, Express, Node.js, MongoDB, C++(DSA)**
+- 💬 Ask me about **HTML, Css, JavaScript, React, Express, Node.js, MongoDB, C++(DSA), Oops , Computer Networks(CN), Operating System(OS)**
 
 - 📫 How to reach me **ramkrishnam170@gmail.com**
 
