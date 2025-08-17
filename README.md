@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramkrishna</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Youtube-backend-clone](https://github.com/krishna7602/Youtube-backend-clone)
+- 🔭 I am currently pursuing my B.Tech at NIT Jalandhar (Batch of 2026)
 
 - 👨‍💻 Portfolio [https://ram-portfolio-phi.vercel.app/](https://ram-portfolio-phi.vercel.app/)
 
